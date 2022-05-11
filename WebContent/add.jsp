@@ -12,7 +12,6 @@
 		int j = Integer.parseInt(request.getParameter("num2"));
 		
 		
-		// no comments
 		int k = i + j; 
 		
 		out.println("output : " + k);
